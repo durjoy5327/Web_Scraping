@@ -1,5 +1,6 @@
 # Web Scraping Tutorial 🕷️📊
 
+
 Welcome to the Web Scraping Tutorial repository! This guide is designed for those who want to learn web scraping from the ground up. Before diving in, it's recommended that you have a basic understanding of Python, including loops, conditional statements (`if`, `elif`, `else`), variables, and containers. If you're not familiar with these concepts, don't worry! You can get up to speed with my [Basic Python Repository](https://github.com/durjoy5327/Python-Basic-and-DSA-Python-/tree/main/Python%20Basic).
 
 ## Prerequisites 📚
